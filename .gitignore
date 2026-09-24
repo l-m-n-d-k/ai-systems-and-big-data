@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.~lock.*#
+*.pyc
+__pycache__/
