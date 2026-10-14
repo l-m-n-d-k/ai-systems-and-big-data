@@ -5,14 +5,17 @@
 
 ```
 ai-systems-and-big-data/
-├── term_2/          # 2-й терм (1 курс)
-│   ├── practical_work_01/ # workbook_01, workbook_02
-│   ├── practical_work_02/ # workbook_03, workbook_04
-│   └── practical_work_03/ # workbook_05, workbook_06
-├── term_3/          # 3-й терм — 4 задачи
-│   ├── task_01/
-│   ├── task_02/
-│   ├── task_03/
-│   └── task_04/
+├── term-2/          # 2-й терм (1 курс)
+│   ├── workbook-01/
+│   ├── workbook-02/
+│   ├── workbook-03/
+│   ├── workbook-04/
+│   ├── workbook-05/
+│   └── workbook-06/
+├── term-3/          # 3-й терм — 4 задачи
+│   ├── workbook-01/
+│   ├── workbook-02/
+│   ├── workbook-03/
+│   └── workbook-04/
 └── README.md
 ```
